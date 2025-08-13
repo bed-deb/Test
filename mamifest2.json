@@ -2,7 +2,7 @@
   "name": "mObywatel",
   "short_name": "mObywatel",
   "description": "Aplikacja logowania PWA",
-  "start_url": "/test/index.html",
+  "start_url": "/Test/index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#4CAF50",

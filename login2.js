@@ -9,7 +9,7 @@ function login() {
             alert("Proszę wprowadzić hasło.");
         } else if (correctPasswords.includes(password)) {
             // Jeśli hasło jest poprawne, przekierowanie na stronę
-            window.location.href = 'https://bed-deb.github.io/g/index2.html';
+            window.location.href = 'index2.html';
         } else {
             // Jeśli hasło jest niepoprawne
             alert("Niepoprawne hasło.");

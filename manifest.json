@@ -1,8 +1,8 @@
 {
   "name": "mObywatel",
   "short_name": "mObywatel",
-  "start_url": "/test/logowanie.html",
-  "scope": "/test/",
+  "start_url": "/Test/logowanie.html",
+  "scope": "/Test/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
